@@ -1,7 +1,7 @@
-### Hi there 👋
+![Header](headerImg.png)
 
-# 💫 About Me:
-👯 I’m looking to collaborate on any web projects<br>🌱 I’m currently learning MERN<br>💬 Ask me about JS and React
+### Hi there 👋, I'm Abhishek Shrestha
+A passionate web developer, Currently learning and expanding knowledge on MERN stack.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrabhishekshrestha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mr_Abhisheikh) 
