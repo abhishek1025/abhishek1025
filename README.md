@@ -23,10 +23,9 @@ A passionate web developer, Currently learning and expanding knowledge on MERN s
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 </div>
+
 <br/>
 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1025&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=abhishek1025&icon=0&color=0)](https://visitcount.itsvg.in)
