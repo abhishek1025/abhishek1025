@@ -1,6 +1,7 @@
-![Header](headerImg.png)
+![Header](github-header-image.png)
 
-### Hi there 👋, I'm Abhishek Shrestha
+### Hi there 👋
+---
 A passionate web developer, Currently learning and expanding knowledge on MERN stack.
 
 ## 🌐 Socials:
