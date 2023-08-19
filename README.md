@@ -26,6 +26,10 @@ A passionate web developer, Currently learning and expanding knowledge on MERN s
 
 <br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek1025&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=abhishek1025&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
